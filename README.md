@@ -1,15 +1,15 @@
 # ux-design-case-emprestimo
 
 
-#Projeto#
+#Projeto
 
 Este projeto tem como objetivo, realizar através da prática o estudo da utilização de UX Design 
 
-##Problema##
+##Problema
 
 Emprestimo de itens pode se tornar um problema, exemplos  é o emprestimo de livros ou jogos, onde geralmente lidamos com o risco da perda do exemplar.
 
-##Storytelling##
+##Storytelling
 
 **Era uma vez,** um leitor apaixonado, proprietário de um acervo de livros crescente. **Todos os dias** realizava a leitura de pelo menos algumas páginas, justificando o número crescente de seu acervo.
 
