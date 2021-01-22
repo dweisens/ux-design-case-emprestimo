@@ -19,6 +19,7 @@ Emprestimo de itens pode se tornar um problema, exemplos  é o emprestimo de liv
 
 ### Francieli
 ![Francieli](https://github.com/dweisens/ux-design-case-emprestimo/blob/master/extra/Francieli.jpg)
+
 Leitora Apaixonada
 "Conhecimento deve ser compartilhado"
 
@@ -37,6 +38,7 @@ Mora em Itajaí
 
 ### Eduardo
 ![Eduardo](https://github.com/dweisens/ux-design-case-emprestimo/blob/master/extra/Eduardo.jpg)
+
 Leitor ocasional
 "Quero obter o hábito de ler livros"
 
@@ -55,6 +57,7 @@ Mora em Itajaí
  
 ### Matheus
 ![Matheus](https://github.com/dweisens/ux-design-case-emprestimo/blob/master/extra/Matheus.jpg)
+
 Leitor 
 "Adoro a leitura"
 
